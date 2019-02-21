@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95704abd-a660-4863-b953-554593fd892a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/remote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filefinder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/geckodriver" beforeDir="false" afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/immigration.py" beforeDir="false" afterPath="$PROJECT_DIR$/immigration.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -118,7 +116,7 @@
     <frame x="65" y="24" width="1743" height="848" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26627907" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26627907" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -129,7 +127,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21228305" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21228305" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32843792" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -163,8 +161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
